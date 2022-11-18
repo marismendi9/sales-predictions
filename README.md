@@ -1,2 +1,2 @@
 # sales-predictions
-Predicting sales food stores
+Predicting sales in food stores
