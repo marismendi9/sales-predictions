@@ -1,7 +1,7 @@
 # sales-predictions
 
 **Objetivo del proyecto:**
-- Saber qué tan bien se pueden las ventas de una cadena de tiendas.
+- Saber qué tan bien se pueden predecir las ventas de productos de una cadena de tiendas.
 
 **Conjunto de datos:**
 | Nombre de la variable     | Descripción                                                                                                           |   |   |   |
