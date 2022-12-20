@@ -27,8 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/112273414/208545707-d0270f5f-0336-4f4b-9e13-400794ae9698.png)
 
-![image](https://user-images.githubusercontent.com/112273414/208545725-6ae9614f-1d28-4d13-b56f-a0f375a3c210.png)
-
 **Observaciones del análisis exploratorio:**
 
 Los datos presentan una alta variabilidad respecto aunas tiendas y a otras, volumen de ventas independiente en la mayoría de los casos del tamaño de la tienda así como tiendas que venden más cierto tipos de productos que otras.
