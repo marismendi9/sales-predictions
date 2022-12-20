@@ -35,7 +35,7 @@ Se aplican los modelos de regresión lineal y de árbole de regresión (con la m
 
 **Resumen de los resultados:**
 
-El modelo que 'mejor resultado' arrojó ser el de árbol de regresión; sin embargo, su R2 continúa siendo muy bajo y a pesar de que se pudo reducir su varianza, su error continúa sienod muy alto.
+El modelo que 'mejor resultado' arrojó ha de ser el de árbol de regresión; sin embargo, su R2 continúa siendo muy bajo y a pesar de que se pudo reducir su varianza, su error continúa sienod muy alto.
 
 Yo recomendaría no aplicar un modelo de esta forma, hacer más análisis como investigar qué variables no infieren tanto en el vector objetivo, así como segmentar las predicciones para cada outlet, ya que por las características tan variadas de estas, podríamos sesgar la muestra que es lo que vemos con el R2 actual, que parece estar subajustado por la aleatoriedad de los datos mismos.
 
