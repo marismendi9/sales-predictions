@@ -29,9 +29,9 @@
 
 **Observaciones del análisis exploratorio:**
 
-Los datos presentan una alta variabilidad respecto aunas tiendas y a otras, volumen de ventas independiente en la mayoría de los casos del tamaño de la tienda así como tiendas que venden más cierto tipos de productos que otras.
+Los datos presentan una alta variabilidad respecto a unas tiendas y a otras; volumen de ventas independiente en la mayoría de los casos del tamaño de la tienda así como tiendas que venden más cierto tipos de productos que otras.
 
-Se aplican los modelos de regresión lineal y de árboles de regresión (con la misma semilla para ambos) y se comparan los resultados.
+Se aplican los modelos de regresión lineal y de árbole de regresión (con la misma semilla para ambos) y se comparan los resultados.
 
 **Resumen de los resultados:**
 
