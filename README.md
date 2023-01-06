@@ -1,7 +1,6 @@
 # Predicción de ventas alimenticias cadena de tiendas
 
-# Video de presentación
-[![Alt text](https://img.youtube.com/vi/yyaiMVGliEI/0.jpg)](https://www.youtube.com/watch?v=yyaiMVGliEI)
+
 
 **Objetivo del proyecto:**
 - Saber qué tan bien se pueden predecir las ventas de productos de una cadena de tiendas.
