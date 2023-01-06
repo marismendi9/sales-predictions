@@ -1,8 +1,5 @@
 # Predicción de ventas alimenticias cadena de tiendas
 
-# Video de presentación
-[![Alt text](https://img.youtube.com/vi/yyaiMVGliEI/0.jpg)](https://www.youtube.com/watch?v=yyaiMVGliEI)
-
 **Objetivo del proyecto:**
 - Saber qué tan bien se pueden predecir las ventas de productos de una cadena de tiendas.
 
@@ -45,3 +42,6 @@ Yo recomendaría no aplicar un modelo de esta forma, hacer más análisis como i
 Así que en ese orden de ideas, aún no recomendaría ningún modelo: analizaría las variables más importantes y eliminaría aquellas que no pesen tanto en la predicción (baja interdependencia), dividiría el dataframe por outlet y por tipo de producto para realizar las predicciones, luego probaría este y otros modelos que me den resultados óptimos.
 
 Finalmente con los resultados obtenidos podría tomaría decisiones de negocio objetivas y más acertadas.
+
+# Video de presentación
+[![Alt text](https://img.youtube.com/vi/yyaiMVGliEI/0.jpg)](https://www.youtube.com/watch?v=yyaiMVGliEI)
